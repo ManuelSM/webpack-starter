@@ -1,0 +1,14 @@
+body{
+    margin: 10px;
+}
+
+h1{
+    color: indigo;
+}
+
+img{
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
